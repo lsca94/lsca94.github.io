@@ -1,5 +1,5 @@
-baseurl = "http://www.example.com"
-title = "johndoe"
+baseurl = "http://www.lorisscandurra.com"
+title = "lorisscandurra"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -13,19 +13,20 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-  author = "John Doe"
+  author = "Loris Scandurra"
   info = "Full Stack DevOps and Magician"
   description = "John Doe's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
 
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+  favicon_32 = "images/favicon-32x32.png"
+  favicon_16 = "images/favicon-16x16.png"
 
-  since = 2019
+  since = 2022
 
   enableTwemoji = true
+  disableComments = true
 
   colorScheme = "auto"
   hidecolorschemetoggle = false
@@ -45,17 +46,22 @@ disqusShortname = "yourdiscussshortname"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
+  url = "https://github.com/lsca94/"
 [[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-gitlab fa-2x"
+  name = "Instagram"
+  icon = "fa fa-instagram fa-2x"
   weight = 2
-  url = "https://gitlab.com/johndoe/"
+  url = "https://instagram.com/lorisscandurra/"
 [[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "http://www.linkedin.com/in/giuseppelorisscandurra"
+[[params.social]]
+  name = "Mail"
+  icon = "fa fa-envelope-o fa-2x"
+  weight = 4
+  url = "mailto:ls@lorisscandurra.com"
 
 # Menu links
 [[menu.main]]
