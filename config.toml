@@ -1,4 +1,4 @@
-baseurl = "http://www.lorisscandurra.com"
+baseurl = "http://lsca94.github.io"
 title = "lorisscandurra"
 theme = "hugo-coder"
 languagecode = "en"
@@ -14,8 +14,8 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Loris Scandurra"
-  info = "Full Stack DevOps and Magician"
-  description = "John Doe's personal website"
+  info = "Cloud Architect"
+  description = "Loris Scandurra's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
@@ -68,7 +68,7 @@ disqusShortname = "yourdiscussshortname"
   name = "Blog"
   weight = 1
   url  = "posts/"
-[[menu.main]]
-  name = "About"
-  weight = 2
-  url = "about/"
+#[[menu.main]]
+#  name = "About"
+#  weight = 2
+#  url = "about/"
