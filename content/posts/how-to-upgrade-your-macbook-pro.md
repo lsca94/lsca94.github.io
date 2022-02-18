@@ -2,7 +2,7 @@
 author = "Loris Scandurra"
 title = 'How to upgrade your MacBook Pro 13" 2019 to a 2020 Model for free (Not Clickbait)'
 date = "2020-07-27"
-description = "First post on my new blog lorisscandurra.com"
+description = 'I had some technical issues with my MacBook Pro 13" 2019 Model and got a full refund for it'
 +++
 
 So last year, I bought myself a new MacBook Pro 13-Inch 2019 Model in April 2019. My MacBook Air served me well, but it was time for an upgrade because I was getting more into programming, and I just needed the extra power.  
