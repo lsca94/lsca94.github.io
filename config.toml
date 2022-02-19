@@ -26,7 +26,6 @@ disqusShortname = "yourdiscussshortname"
   since = 2022
 
   enableTwemoji = true
-  disableComments = true
 
   colorScheme = "auto"
   hidecolorschemetoggle = false

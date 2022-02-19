@@ -3,6 +3,7 @@ author = "Loris Scandurra"
 title = "Exchange 2016 Hybrid setup false password/username"
 date = "2020-07-23"
 description = "Exchange 2016 Hybrid Setup has a bug that returns a false password/username error even if you copy the correct credentials"
+disableComments = true
 +++
 
 **TL;DR**  

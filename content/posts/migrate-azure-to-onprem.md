@@ -3,6 +3,7 @@ author = "Loris Scandurra"
 title = 'Migrate Azure Virtual Machine to On-Premise VMware Environment'
 date = "2020-09-28"
 description = 'Migrating a VM from Azure down to on-premise servers'
+disableComments = true
 +++
 
 We recently updated a customer's On-Premise infrastructure. He now has new Servers and Storage for his VMware ESXi 7.0 environment.

@@ -3,6 +3,7 @@ author = "Loris Scandurra"
 title = "My first blog post"
 date = "2020-06-09"
 description = "First post on my new blog lorisscandurra.com"
+disableComments = true
 +++
 
 Welcome to lorisscandurra.com! This is the first blog post on my new website. This blog is here to document the everyday issues I encounter during my work. This blog should help engineers solve some of their problems and help me remember the solutions I found in the past. I might also post some posts that are out of context about stuff I find interesting or entertaining.

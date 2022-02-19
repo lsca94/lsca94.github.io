@@ -3,6 +3,7 @@ author = "Loris Scandurra"
 title = "Essential tools for engineers"
 date = "2020-06-15"
 description = "Some essential tools to make engineers life easier"
+disableComments = true
 +++
 
 In this post, I will list some tools I use daily, explain why I use them, and provide a link to download/use them. I will regularly update this post if I find new tools or when they get discontinued.

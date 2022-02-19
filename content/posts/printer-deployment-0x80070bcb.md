@@ -3,6 +3,7 @@ author = "Loris Scandurra"
 title = 'Printer deployment with Group Policy Preferences and error 0x80070bcb'
 date = "2020-08-10"
 description = 'Solving 0x80070bcb error when deploying printers with GPO'
+disableComments = true
 +++
 
 **TL;DR**

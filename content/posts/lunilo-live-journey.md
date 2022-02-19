@@ -3,6 +3,7 @@ author = "Loris Scandurra"
 title = 'My lunilo.live journey'
 date = "2021-03-08"
 description = 'I talk about my first startup experience'
+disableComments = true
 +++
 
 On the 10th of November 2020, a friend added me to a group call to discuss a startup idea. It was my friend, a guy I didn't know yet, and me in the group call. The guy I didn't know, named Luzius, had the idea to bring local artists, entertainers, comedians, performers to the digital age. He had this idea because of the Corona restrictions. Not only restaurants and shops were hit hard by this but also performers. They couldn't perform in front of big crowds or any crowds anymore.  
